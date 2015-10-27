@@ -1,0 +1,4 @@
+ScSR Results
+
+PSNR for Bicubic Interpolation: 32.794678 dB
+PSNR for Sparse Representation Recovery: 35.036804 dB
