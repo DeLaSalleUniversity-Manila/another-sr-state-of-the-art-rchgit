@@ -9,8 +9,8 @@ function demo_deform()
     close all;
     clear;
     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-    addpath('~/Lib/vlfeat-0.9.16/toolbox/');
-    vl_setup();
+    %addpath('~/Lib/vlfeat-0.9.16/toolbox/');
+    %vl_setup();
     mex MaxHeapsort.cpp
     %matlabpool('open','local',8);
     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
