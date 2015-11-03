@@ -1,0 +1,207 @@
+The experiment uses C:\MATLAB_work\SotA_DATA\Testing dataset and aims at a magnification of factor x2
+We run only for Bicubic, GR and ANR methods, the other get the Bicubic result by default
+
+
+Upscaling x2 C:\MATLAB_work\SotA_DATA\Testing with Zeyde dictionary of size = 1024
+Training dictionary of size 1024 using Zeyde approach...
+Warning: JPEG library error (8 bit), "Premature end of JPEG file"." 
+Training [30 x 1024] dictionary on 5448768 vectors using K-SVD
+Iteration 1 / 20 complete, RMSE = 0.02813
+Iteration 2 / 20 complete, RMSE = 0.0274
+Iteration 3 / 20 complete, RMSE = 0.02703
+Iteration 4 / 20 complete, RMSE = 0.02679
+Iteration 5 / 20 complete, RMSE = 0.0266
+Iteration 6 / 20 complete, RMSE = 0.02644
+Iteration 7 / 20 complete, RMSE = 0.02632
+Iteration 8 / 20 complete, RMSE = 0.02621
+Iteration 9 / 20 complete, RMSE = 0.02612
+Iteration 10 / 20 complete, RMSE = 0.02603
+Iteration 11 / 20 complete, RMSE = 0.02596
+Iteration 12 / 20 complete, RMSE = 0.02589
+Iteration 13 / 20 complete, RMSE = 0.02583
+Iteration 14 / 20 complete, RMSE = 0.02578
+Iteration 15 / 20 complete, RMSE = 0.02573
+Iteration 16 / 20 complete, RMSE = 0.02569
+Iteration 17 / 20 complete, RMSE = 0.02565
+Iteration 18 / 20 complete, RMSE = 0.02561
+Iteration 19 / 20 complete, RMSE = 0.02557
+Iteration 20 / 20 complete, RMSE = 0.02554
+Elapsed time is 4270.092632 seconds.
+Computing high-res. dictionary from low-res. dictionary
+Elapsed time is 4309.574228 seconds.
+1/24	"C:\MATLAB_work\SotA_DATA\Testing\kodim01.png" [512 x 768]
+Scale-Up GR.
+Elapsed time is 1.397575 seconds.
+Scale-Up ANR.
+Elapsed time is 3.246647 seconds.
+2/24	"C:\MATLAB_work\SotA_DATA\Testing\kodim02.png" [512 x 768]
+Scale-Up GR.
+Elapsed time is 1.401024 seconds.
+Scale-Up ANR.
+Elapsed time is 3.076757 seconds.
+3/24	"C:\MATLAB_work\SotA_DATA\Testing\kodim03.png" [512 x 768]
+Scale-Up GR.
+Elapsed time is 1.396142 seconds.
+Scale-Up ANR.
+Elapsed time is 3.168803 seconds.
+4/24	"C:\MATLAB_work\SotA_DATA\Testing\kodim04.png" [768 x 512]
+Scale-Up GR.
+Elapsed time is 1.399981 seconds.
+Scale-Up ANR.
+Elapsed time is 3.147971 seconds.
+5/24	"C:\MATLAB_work\SotA_DATA\Testing\kodim05.png" [512 x 768]
+Scale-Up GR.
+Elapsed time is 1.422134 seconds.
+Scale-Up ANR.
+Elapsed time is 3.082800 seconds.
+6/24	"C:\MATLAB_work\SotA_DATA\Testing\kodim06.png" [512 x 768]
+Scale-Up GR.
+Elapsed time is 1.414562 seconds.
+Scale-Up ANR.
+Elapsed time is 3.135668 seconds.
+7/24	"C:\MATLAB_work\SotA_DATA\Testing\kodim07.png" [512 x 768]
+Scale-Up GR.
+Elapsed time is 1.409393 seconds.
+Scale-Up ANR.
+Elapsed time is 3.076022 seconds.
+8/24	"C:\MATLAB_work\SotA_DATA\Testing\kodim08.png" [512 x 768]
+Scale-Up GR.
+Elapsed time is 1.418142 seconds.
+Scale-Up ANR.
+Elapsed time is 3.057591 seconds.
+9/24	"C:\MATLAB_work\SotA_DATA\Testing\kodim09.png" [768 x 512]
+Scale-Up GR.
+Elapsed time is 1.412071 seconds.
+Scale-Up ANR.
+Elapsed time is 3.146507 seconds.
+10/24	"C:\MATLAB_work\SotA_DATA\Testing\kodim10.png" [768 x 512]
+Scale-Up GR.
+Elapsed time is 1.422691 seconds.
+Scale-Up ANR.
+Elapsed time is 3.076453 seconds.
+11/24	"C:\MATLAB_work\SotA_DATA\Testing\kodim11.png" [512 x 768]
+Scale-Up GR.
+Elapsed time is 1.428288 seconds.
+Scale-Up ANR.
+Elapsed time is 3.142592 seconds.
+12/24	"C:\MATLAB_work\SotA_DATA\Testing\kodim12.png" [512 x 768]
+Scale-Up GR.
+Elapsed time is 1.411120 seconds.
+Scale-Up ANR.
+Elapsed time is 3.169743 seconds.
+13/24	"C:\MATLAB_work\SotA_DATA\Testing\kodim13.png" [512 x 768]
+Scale-Up GR.
+Elapsed time is 1.416824 seconds.
+Scale-Up ANR.
+Elapsed time is 3.153103 seconds.
+14/24	"C:\MATLAB_work\SotA_DATA\Testing\kodim14.png" [512 x 768]
+Scale-Up GR.
+Elapsed time is 1.435781 seconds.
+Scale-Up ANR.
+Elapsed time is 3.138640 seconds.
+15/24	"C:\MATLAB_work\SotA_DATA\Testing\kodim15.png" [512 x 768]
+Scale-Up GR.
+Elapsed time is 1.402744 seconds.
+Scale-Up ANR.
+Elapsed time is 3.133863 seconds.
+16/24	"C:\MATLAB_work\SotA_DATA\Testing\kodim16.png" [512 x 768]
+Scale-Up GR.
+Elapsed time is 1.428802 seconds.
+Scale-Up ANR.
+Elapsed time is 3.170785 seconds.
+17/24	"C:\MATLAB_work\SotA_DATA\Testing\kodim17.png" [768 x 512]
+Scale-Up GR.
+Elapsed time is 1.424882 seconds.
+Scale-Up ANR.
+Elapsed time is 3.156324 seconds.
+18/24	"C:\MATLAB_work\SotA_DATA\Testing\kodim18.png" [768 x 512]
+Scale-Up GR.
+Elapsed time is 1.410653 seconds.
+Scale-Up ANR.
+Elapsed time is 3.166527 seconds.
+19/24	"C:\MATLAB_work\SotA_DATA\Testing\kodim19.png" [768 x 512]
+Scale-Up GR.
+Elapsed time is 1.395209 seconds.
+Scale-Up ANR.
+Elapsed time is 3.241259 seconds.
+20/24	"C:\MATLAB_work\SotA_DATA\Testing\kodim20.png" [512 x 768]
+Scale-Up GR.
+Elapsed time is 1.417714 seconds.
+Scale-Up ANR.
+Elapsed time is 3.140029 seconds.
+21/24	"C:\MATLAB_work\SotA_DATA\Testing\kodim21.png" [512 x 768]
+Scale-Up GR.
+Elapsed time is 1.462234 seconds.
+Scale-Up ANR.
+Elapsed time is 3.159187 seconds.
+22/24	"C:\MATLAB_work\SotA_DATA\Testing\kodim22.png" [512 x 768]
+Scale-Up GR.
+Elapsed time is 1.428638 seconds.
+Scale-Up ANR.
+Elapsed time is 3.093240 seconds.
+23/24	"C:\MATLAB_work\SotA_DATA\Testing\kodim23.png" [512 x 768]
+Scale-Up GR.
+Elapsed time is 1.429007 seconds.
+Scale-Up ANR.
+Elapsed time is 3.204291 seconds.
+24/24	"C:\MATLAB_work\SotA_DATA\Testing\kodim24.png" [512 x 768]
+Scale-Up GR.
+Elapsed time is 1.436551 seconds.
+Scale-Up ANR.
+Elapsed time is 3.246914 seconds.
+Writing results to HTML summary...
+1/24:	[kodim01] : 26.7 dB : 26.7 dB : 26.7 dB : 27.6 dB : 27.8 dB : 26.7 dB : 26.7 dB : 26.7 dB
+2/24:	[kodim02] : 34.0 dB : 34.0 dB : 34.0 dB : 34.8 dB : 35.0 dB : 34.0 dB : 34.0 dB : 34.0 dB
+3/24:	[kodim03] : 35.0 dB : 35.0 dB : 35.0 dB : 36.0 dB : 36.5 dB : 35.0 dB : 35.0 dB : 35.0 dB
+4/24:	[kodim04] : 34.6 dB : 34.6 dB : 34.6 dB : 35.7 dB : 36.0 dB : 34.6 dB : 34.6 dB : 34.6 dB
+5/24:	[kodim05] : 27.1 dB : 27.1 dB : 27.1 dB : 28.4 dB : 28.9 dB : 27.1 dB : 27.1 dB : 27.1 dB
+6/24:	[kodim06] : 28.3 dB : 28.3 dB : 28.3 dB : 29.1 dB : 29.2 dB : 28.3 dB : 28.3 dB : 28.3 dB
+7/24:	[kodim07] : 34.3 dB : 34.3 dB : 34.3 dB : 35.7 dB : 36.3 dB : 34.3 dB : 34.3 dB : 34.3 dB
+8/24:	[kodim08] : 24.3 dB : 24.3 dB : 24.3 dB : 25.2 dB : 25.4 dB : 24.3 dB : 24.3 dB : 24.3 dB
+9/24:	[kodim09] : 33.1 dB : 33.1 dB : 33.1 dB : 34.4 dB : 34.8 dB : 33.1 dB : 33.1 dB : 33.1 dB
+10/24:	[kodim10] : 32.9 dB : 32.9 dB : 32.9 dB : 34.0 dB : 34.5 dB : 32.9 dB : 32.9 dB : 32.9 dB
+11/24:	[kodim11] : 29.9 dB : 29.9 dB : 29.9 dB : 30.8 dB : 31.0 dB : 29.9 dB : 29.9 dB : 29.9 dB
+12/24:	[kodim12] : 33.6 dB : 33.6 dB : 33.6 dB : 34.5 dB : 34.9 dB : 33.6 dB : 33.6 dB : 33.6 dB
+13/24:	[kodim13] : 24.7 dB : 24.7 dB : 24.7 dB : 25.5 dB : 25.6 dB : 24.7 dB : 24.7 dB : 24.7 dB
+14/24:	[kodim14] : 29.9 dB : 29.9 dB : 29.9 dB : 31.0 dB : 31.3 dB : 29.9 dB : 29.9 dB : 29.9 dB
+15/24:	[kodim15] : 32.9 dB : 32.9 dB : 32.9 dB : 33.8 dB : 34.2 dB : 32.9 dB : 32.9 dB : 32.9 dB
+16/24:	[kodim16] : 32.1 dB : 32.1 dB : 32.1 dB : 32.8 dB : 32.9 dB : 32.1 dB : 32.1 dB : 32.1 dB
+17/24:	[kodim17] : 32.9 dB : 32.9 dB : 32.9 dB : 34.0 dB : 34.3 dB : 32.9 dB : 32.9 dB : 32.9 dB
+18/24:	[kodim18] : 28.8 dB : 28.8 dB : 28.8 dB : 29.8 dB : 29.9 dB : 28.8 dB : 28.8 dB : 28.8 dB
+19/24:	[kodim19] : 28.8 dB : 28.8 dB : 28.8 dB : 29.8 dB : 30.0 dB : 28.8 dB : 28.8 dB : 28.8 dB
+20/24:	[kodim20] : 32.4 dB : 32.4 dB : 32.4 dB : 33.3 dB : 33.8 dB : 32.4 dB : 32.4 dB : 32.4 dB
+21/24:	[kodim21] : 29.3 dB : 29.3 dB : 29.3 dB : 30.2 dB : 30.4 dB : 29.3 dB : 29.3 dB : 29.3 dB
+22/24:	[kodim22] : 31.4 dB : 31.4 dB : 31.4 dB : 32.4 dB : 32.5 dB : 31.4 dB : 31.4 dB : 31.4 dB
+23/24:	[kodim23] : 35.9 dB : 35.9 dB : 35.9 dB : 37.4 dB : 37.9 dB : 35.9 dB : 35.9 dB : 35.9 dB
+24/24:	[kodim24] : 27.6 dB : 27.6 dB : 27.6 dB : 28.5 dB : 28.7 dB : 27.6 dB : 27.6 dB : 27.6 dB
+	Average:  : 30.85 dB : 30.85 dB : 30.85 dB : 31.86 dB : 32.16 dB : 30.85 dB : 30.85 dB : 30.85 dB
+
+Writing results to Tex summary...
+
+& \multicolumn{2}{|c|}{Bicubic}& \multicolumn{2}{|c|}{Yang et. al.}& \multicolumn{2}{|c|}{Zeyde et. al.}& \multicolumn{2}{|c|}{Our GR}& \multicolumn{2}{|c|}{Our ANR}& \multicolumn{2}{|c|}{NE+LS}& \multicolumn{2}{|c|}{NE+NNLS}& \multicolumn{2}{|c|}{NE+LLE}\\
+image& PSNR & Time& PSNR & Time& PSNR & Time& PSNR & Time& PSNR & Time& PSNR & Time& PSNR & Time& PSNR & Time\\
+kodim01 & 26.7 & 0.0 & 26.7 & 0.0 & 26.7 & 0.0 & 27.6 & 1.4 & 27.8 & 3.2 & 26.7 & 0.0 & 26.7 & 0.0 & 26.7 & 0.0\\
+kodim02 & 34.0 & 0.0 & 34.0 & 0.0 & 34.0 & 0.0 & 34.8 & 1.4 & 35.0 & 3.1 & 34.0 & 0.0 & 34.0 & 0.0 & 34.0 & 0.0\\
+kodim03 & 35.0 & 0.0 & 35.0 & 0.0 & 35.0 & 0.0 & 36.0 & 1.4 & 36.5 & 3.2 & 35.0 & 0.0 & 35.0 & 0.0 & 35.0 & 0.0\\
+kodim04 & 34.6 & 0.0 & 34.6 & 0.0 & 34.6 & 0.0 & 35.7 & 1.4 & 36.0 & 3.1 & 34.6 & 0.0 & 34.6 & 0.0 & 34.6 & 0.0\\
+kodim05 & 27.1 & 0.0 & 27.1 & 0.0 & 27.1 & 0.0 & 28.4 & 1.4 & 28.9 & 3.1 & 27.1 & 0.0 & 27.1 & 0.0 & 27.1 & 0.0\\
+kodim06 & 28.3 & 0.0 & 28.3 & 0.0 & 28.3 & 0.0 & 29.1 & 1.4 & 29.2 & 3.1 & 28.3 & 0.0 & 28.3 & 0.0 & 28.3 & 0.0\\
+kodim07 & 34.3 & 0.0 & 34.3 & 0.0 & 34.3 & 0.0 & 35.7 & 1.4 & 36.3 & 3.1 & 34.3 & 0.0 & 34.3 & 0.0 & 34.3 & 0.0\\
+kodim08 & 24.3 & 0.0 & 24.3 & 0.0 & 24.3 & 0.0 & 25.2 & 1.4 & 25.4 & 3.1 & 24.3 & 0.0 & 24.3 & 0.0 & 24.3 & 0.0\\
+kodim09 & 33.1 & 0.0 & 33.1 & 0.0 & 33.1 & 0.0 & 34.4 & 1.4 & 34.8 & 3.1 & 33.1 & 0.0 & 33.1 & 0.0 & 33.1 & 0.0\\
+kodim10 & 32.9 & 0.0 & 32.9 & 0.0 & 32.9 & 0.0 & 34.0 & 1.4 & 34.5 & 3.1 & 32.9 & 0.0 & 32.9 & 0.0 & 32.9 & 0.0\\
+kodim11 & 29.9 & 0.0 & 29.9 & 0.0 & 29.9 & 0.0 & 30.8 & 1.4 & 31.0 & 3.1 & 29.9 & 0.0 & 29.9 & 0.0 & 29.9 & 0.0\\
+kodim12 & 33.6 & 0.0 & 33.6 & 0.0 & 33.6 & 0.0 & 34.5 & 1.4 & 34.9 & 3.2 & 33.6 & 0.0 & 33.6 & 0.0 & 33.6 & 0.0\\
+kodim13 & 24.7 & 0.0 & 24.7 & 0.0 & 24.7 & 0.0 & 25.5 & 1.4 & 25.6 & 3.2 & 24.7 & 0.0 & 24.7 & 0.0 & 24.7 & 0.0\\
+kodim14 & 29.9 & 0.0 & 29.9 & 0.0 & 29.9 & 0.0 & 31.0 & 1.4 & 31.3 & 3.1 & 29.9 & 0.0 & 29.9 & 0.0 & 29.9 & 0.0\\
+kodim15 & 32.9 & 0.0 & 32.9 & 0.0 & 32.9 & 0.0 & 33.8 & 1.4 & 34.2 & 3.1 & 32.9 & 0.0 & 32.9 & 0.0 & 32.9 & 0.0\\
+kodim16 & 32.1 & 0.0 & 32.1 & 0.0 & 32.1 & 0.0 & 32.8 & 1.4 & 32.9 & 3.2 & 32.1 & 0.0 & 32.1 & 0.0 & 32.1 & 0.0\\
+kodim17 & 32.9 & 0.0 & 32.9 & 0.0 & 32.9 & 0.0 & 34.0 & 1.4 & 34.3 & 3.2 & 32.9 & 0.0 & 32.9 & 0.0 & 32.9 & 0.0\\
+kodim18 & 28.8 & 0.0 & 28.8 & 0.0 & 28.8 & 0.0 & 29.8 & 1.4 & 29.9 & 3.2 & 28.8 & 0.0 & 28.8 & 0.0 & 28.8 & 0.0\\
+kodim19 & 28.8 & 0.0 & 28.8 & 0.0 & 28.8 & 0.0 & 29.8 & 1.4 & 30.0 & 3.2 & 28.8 & 0.0 & 28.8 & 0.0 & 28.8 & 0.0\\
+kodim20 & 32.4 & 0.0 & 32.4 & 0.0 & 32.4 & 0.0 & 33.3 & 1.4 & 33.8 & 3.1 & 32.4 & 0.0 & 32.4 & 0.0 & 32.4 & 0.0\\
+kodim21 & 29.3 & 0.0 & 29.3 & 0.0 & 29.3 & 0.0 & 30.2 & 1.5 & 30.4 & 3.2 & 29.3 & 0.0 & 29.3 & 0.0 & 29.3 & 0.0\\
+kodim22 & 31.4 & 0.0 & 31.4 & 0.0 & 31.4 & 0.0 & 32.4 & 1.4 & 32.5 & 3.1 & 31.4 & 0.0 & 31.4 & 0.0 & 31.4 & 0.0\\
+kodim23 & 35.9 & 0.0 & 35.9 & 0.0 & 35.9 & 0.0 & 37.4 & 1.4 & 37.9 & 3.2 & 35.9 & 0.0 & 35.9 & 0.0 & 35.9 & 0.0\\
+kodim24 & 27.6 & 0.0 & 27.6 & 0.0 & 27.6 & 0.0 & 28.5 & 1.4 & 28.7 & 3.2 & 27.6 & 0.0 & 27.6 & 0.0 & 27.6 & 0.0\\
+average & 30.85 & 0.00 & 30.85 & 0.00 & 30.85 & 0.00 & 31.86 & 1.42 & 32.16 & 3.15 & 30.85 & 0.00 & 30.85 & 0.00 & 30.85 & 0.00

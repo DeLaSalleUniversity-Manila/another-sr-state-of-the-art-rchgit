@@ -1,0 +1,191 @@
+For C:\MATLAB_work\SotA_DATA\Testing\kodim01.png\n
+PSNR for Bicubic Interpolation: 26.577008 dB
+PSNR for Sparse Representation Recovery: 27.822200 dB
+SSIM for Bicubic Interpolation: 0.833784 dB
+SSIM for Sparse Representation Recovery: 0.878182 dB
+FSIM for Bicubic Interpolation: 0.979630 dB
+FSIM for Sparse Representation Recovery: 0.991924 dB
+
+For C:\MATLAB_work\SotA_DATA\Testing\kodim02.png\n
+PSNR for Bicubic Interpolation: 33.166066 dB
+PSNR for Sparse Representation Recovery: 34.164176 dB
+SSIM for Bicubic Interpolation: 0.987327 dB
+SSIM for Sparse Representation Recovery: 0.989748 dB
+FSIM for Bicubic Interpolation: 0.989438 dB
+FSIM for Sparse Representation Recovery: 0.994662 dB
+
+For C:\MATLAB_work\SotA_DATA\Testing\kodim03.png\n
+PSNR for Bicubic Interpolation: 33.950788 dB
+PSNR for Sparse Representation Recovery: 35.409178 dB
+SSIM for Bicubic Interpolation: 0.972034 dB
+SSIM for Sparse Representation Recovery: 0.977362 dB
+FSIM for Bicubic Interpolation: 0.992059 dB
+FSIM for Sparse Representation Recovery: 0.996270 dB
+
+For C:\MATLAB_work\SotA_DATA\Testing\kodim04.png\n
+PSNR for Bicubic Interpolation: 33.762275 dB
+PSNR for Sparse Representation Recovery: 35.179839 dB
+SSIM for Bicubic Interpolation: 0.980044 dB
+SSIM for Sparse Representation Recovery: 0.984686 dB
+FSIM for Bicubic Interpolation: 0.994301 dB
+FSIM for Sparse Representation Recovery: 0.997570 dB
+
+For C:\MATLAB_work\SotA_DATA\Testing\kodim05.png\n
+PSNR for Bicubic Interpolation: 26.978279 dB
+PSNR for Sparse Representation Recovery: 29.087394 dB
+SSIM for Bicubic Interpolation: 0.884026 dB
+SSIM for Sparse Representation Recovery: 0.927341 dB
+FSIM for Bicubic Interpolation: 0.985254 dB
+FSIM for Sparse Representation Recovery: 0.996475 dB
+
+For C:\MATLAB_work\SotA_DATA\Testing\kodim06.png\n
+PSNR for Bicubic Interpolation: 28.040057 dB
+PSNR for Sparse Representation Recovery: 29.092850 dB
+SSIM for Bicubic Interpolation: 0.880079 dB
+SSIM for Sparse Representation Recovery: 0.906931 dB
+FSIM for Bicubic Interpolation: 0.982150 dB
+FSIM for Sparse Representation Recovery: 0.991635 dB
+
+For C:\MATLAB_work\SotA_DATA\Testing\kodim07.png\n
+PSNR for Bicubic Interpolation: 33.525162 dB
+PSNR for Sparse Representation Recovery: 35.684652 dB
+SSIM for Bicubic Interpolation: 0.975796 dB
+SSIM for Sparse Representation Recovery: 0.983225 dB
+FSIM for Bicubic Interpolation: 0.993704 dB
+FSIM for Sparse Representation Recovery: 0.998242 dB
+
+For C:\MATLAB_work\SotA_DATA\Testing\kodim08.png\n
+PSNR for Bicubic Interpolation: 24.258942 dB
+PSNR for Sparse Representation Recovery: 25.466299 dB
+SSIM for Bicubic Interpolation: 0.817314 dB
+SSIM for Sparse Representation Recovery: 0.862031 dB
+FSIM for Bicubic Interpolation: 0.976683 dB
+FSIM for Sparse Representation Recovery: 0.989168 dB
+
+For C:\MATLAB_work\SotA_DATA\Testing\kodim09.png\n
+PSNR for Bicubic Interpolation: 32.612239 dB
+PSNR for Sparse Representation Recovery: 34.429683 dB
+SSIM for Bicubic Interpolation: 0.927124 dB
+SSIM for Sparse Representation Recovery: 0.941564 dB
+FSIM for Bicubic Interpolation: 0.990427 dB
+FSIM for Sparse Representation Recovery: 0.996682 dB
+
+For C:\MATLAB_work\SotA_DATA\Testing\kodim10.png\n
+PSNR for Bicubic Interpolation: 32.461990 dB
+PSNR for Sparse Representation Recovery: 34.332441 dB
+SSIM for Bicubic Interpolation: 0.933945 dB
+SSIM for Sparse Representation Recovery: 0.951127 dB
+FSIM for Bicubic Interpolation: 0.990915 dB
+FSIM for Sparse Representation Recovery: 0.996941 dB
+
+For C:\MATLAB_work\SotA_DATA\Testing\kodim11.png\n
+PSNR for Bicubic Interpolation: 29.691622 dB
+PSNR for Sparse Representation Recovery: 31.059430 dB
+SSIM for Bicubic Interpolation: 0.910954 dB
+SSIM for Sparse Representation Recovery: 0.932229 dB
+FSIM for Bicubic Interpolation: 0.985814 dB
+FSIM for Sparse Representation Recovery: 0.994361 dB
+
+For C:\MATLAB_work\SotA_DATA\Testing\kodim12.png\n
+PSNR for Bicubic Interpolation: 33.081067 dB
+PSNR for Sparse Representation Recovery: 34.803690 dB
+SSIM for Bicubic Interpolation: 0.957878 dB
+SSIM for Sparse Representation Recovery: 0.967099 dB
+FSIM for Bicubic Interpolation: 0.990661 dB
+FSIM for Sparse Representation Recovery: 0.996011 dB
+
+For C:\MATLAB_work\SotA_DATA\Testing\kodim13.png\n
+PSNR for Bicubic Interpolation: 24.677702 dB
+PSNR for Sparse Representation Recovery: 25.677186 dB
+SSIM for Bicubic Interpolation: 0.829649 dB
+SSIM for Sparse Representation Recovery: 0.870211 dB
+FSIM for Bicubic Interpolation: 0.982139 dB
+FSIM for Sparse Representation Recovery: 0.992464 dB
+
+For C:\MATLAB_work\SotA_DATA\Testing\kodim14.png\n
+PSNR for Bicubic Interpolation: 29.475738 dB
+PSNR for Sparse Representation Recovery: 30.945204 dB
+SSIM for Bicubic Interpolation: 0.895822 dB
+SSIM for Sparse Representation Recovery: 0.921857 dB
+FSIM for Bicubic Interpolation: 0.989100 dB
+FSIM for Sparse Representation Recovery: 0.995552 dB
+
+For C:\MATLAB_work\SotA_DATA\Testing\kodim15.png\n
+PSNR for Bicubic Interpolation: 32.143608 dB
+PSNR for Sparse Representation Recovery: 33.857569 dB
+SSIM for Bicubic Interpolation: 0.955727 dB
+SSIM for Sparse Representation Recovery: 0.966059 dB
+FSIM for Bicubic Interpolation: 0.992175 dB
+FSIM for Sparse Representation Recovery: 0.996444 dB
+
+For C:\MATLAB_work\SotA_DATA\Testing\kodim16.png\n
+PSNR for Bicubic Interpolation: 31.370372 dB
+PSNR for Sparse Representation Recovery: 32.141095 dB
+SSIM for Bicubic Interpolation: 0.872858 dB
+SSIM for Sparse Representation Recovery: 0.895910 dB
+FSIM for Bicubic Interpolation: 0.987664 dB
+FSIM for Sparse Representation Recovery: 0.992868 dB
+
+For C:\MATLAB_work\SotA_DATA\Testing\kodim17.png\n
+PSNR for Bicubic Interpolation: 32.829566 dB
+PSNR for Sparse Representation Recovery: 34.630771 dB
+SSIM for Bicubic Interpolation: 0.942020 dB
+SSIM for Sparse Representation Recovery: 0.956847 dB
+FSIM for Bicubic Interpolation: 0.992971 dB
+FSIM for Sparse Representation Recovery: 0.997824 dB
+
+For C:\MATLAB_work\SotA_DATA\Testing\kodim18.png\n
+PSNR for Bicubic Interpolation: 28.720601 dB
+PSNR for Sparse Representation Recovery: 29.987246 dB
+SSIM for Bicubic Interpolation: 0.910671 dB
+SSIM for Sparse Representation Recovery: 0.931098 dB
+FSIM for Bicubic Interpolation: 0.987571 dB
+FSIM for Sparse Representation Recovery: 0.995396 dB
+
+For C:\MATLAB_work\SotA_DATA\Testing\kodim19.png\n
+PSNR for Bicubic Interpolation: 28.807727 dB
+PSNR for Sparse Representation Recovery: 30.271867 dB
+SSIM for Bicubic Interpolation: 0.929817 dB
+SSIM for Sparse Representation Recovery: 0.944653 dB
+FSIM for Bicubic Interpolation: 0.982561 dB
+FSIM for Sparse Representation Recovery: 0.993411 dB
+
+For C:\MATLAB_work\SotA_DATA\Testing\kodim20.png\n
+PSNR for Bicubic Interpolation: 31.003462 dB
+PSNR for Sparse Representation Recovery: 32.479886 dB
+SSIM for Bicubic Interpolation: 0.950281 dB
+SSIM for Sparse Representation Recovery: 0.961691 dB
+FSIM for Bicubic Interpolation: 0.991130 dB
+FSIM for Sparse Representation Recovery: 0.997055 dB
+
+For C:\MATLAB_work\SotA_DATA\Testing\kodim21.png\n
+PSNR for Bicubic Interpolation: 29.055586 dB
+PSNR for Sparse Representation Recovery: 30.244686 dB
+SSIM for Bicubic Interpolation: 0.913742 dB
+SSIM for Sparse Representation Recovery: 0.934402 dB
+FSIM for Bicubic Interpolation: 0.985454 dB
+FSIM for Sparse Representation Recovery: 0.994070 dB
+
+For C:\MATLAB_work\SotA_DATA\Testing\kodim22.png\n
+PSNR for Bicubic Interpolation: 31.047009 dB
+PSNR for Sparse Representation Recovery: 32.292306 dB
+SSIM for Bicubic Interpolation: 0.941800 dB
+SSIM for Sparse Representation Recovery: 0.953638 dB
+FSIM for Bicubic Interpolation: 0.989789 dB
+FSIM for Sparse Representation Recovery: 0.995478 dB
+
+For C:\MATLAB_work\SotA_DATA\Testing\kodim23.png\n
+PSNR for Bicubic Interpolation: 34.723673 dB
+PSNR for Sparse Representation Recovery: 36.437926 dB
+SSIM for Bicubic Interpolation: 0.982637 dB
+SSIM for Sparse Representation Recovery: 0.986079 dB
+FSIM for Bicubic Interpolation: 0.996748 dB
+FSIM for Sparse Representation Recovery: 0.998214 dB
+
+For C:\MATLAB_work\SotA_DATA\Testing\kodim24.png\n
+PSNR for Bicubic Interpolation: 27.566845 dB
+PSNR for Sparse Representation Recovery: 28.795874 dB
+SSIM for Bicubic Interpolation: 0.889184 dB
+SSIM for Sparse Representation Recovery: 0.919424 dB
+FSIM for Bicubic Interpolation: 0.984592 dB
+FSIM for Sparse Representation Recovery: 0.994337 dB
