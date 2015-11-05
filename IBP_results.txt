@@ -1,0 +1,12 @@
+mse_mean =
+
+    0.0013
+
+psnr_mean =
+
+   29.6769
+
+
+ssim_mean =
+
+    0.8956
